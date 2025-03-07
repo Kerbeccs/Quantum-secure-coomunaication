@@ -1,0 +1,1 @@
+Communication between two parties using Quantum Key Distribution (QKD) and Quantum Teleportation. It will involve multiple quantum principles including quantum entanglement, quantum gates, no-cloning theorem, and quantum circuits.
